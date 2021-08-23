@@ -1,1 +1,5 @@
 ![picture](./imgProject/login.png)
+![picture](./imgProject/home.png)
+![picture](./imgProject/about.png)
+![picture](./imgProject/detail1.png)
+![picture](./imgProject/detail2.png)
