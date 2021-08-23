@@ -1,0 +1,6 @@
+module Pods_shoesProject {
+  umbrella header "Pods-shoesProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
